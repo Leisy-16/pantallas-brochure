@@ -1,0 +1,81 @@
+.email{
+
+    width: 90%;
+    border: 2px solid #000000;
+    border-top:0px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+
+.pass{
+
+    width: 90%;
+    height: 20px;
+    left: 106px;
+    top: 518px;
+
+    border-bottom: 2px solid #000000;
+    border-top:0px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+
+.ing{
+    
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 27px;
+        
+        align-items: center;
+        text-align: center;
+        
+        color: #000000;
+    
+        width: 227px;
+        height: 56px;
+        left: 93px;
+        top: 624px;
+        background: #00CA8D;
+        opacity: 0.74;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+    
+
+}
+
+h1{
+  
+    width: 150px;
+    height: 46px;
+    left: 151px;
+    top: 156px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 72px;
+    
+    color: #000000;
+    font-weight:bolder;
+}
+
+h4{
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 21px;
+    
+    color: #000000;
+
+}
+.card{
+    border: 0 !important;
+}
+
